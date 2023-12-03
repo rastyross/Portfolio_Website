@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 130px;
+    background-color: #E0EEE0;
+    height: 690px;
+}
+
+.cloudone{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+}
+
+.cloudtwo{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.pahaad{
+    position: absolute;
+    bottom: 10px;
+    right: 310px;
+    height: 500px;
+}
+
+h1{
+    line-height: 2;
+    color: #66BFBF;
+    font-size: 70px;
+    font-family: 'Neonderthaw', cursive, sans-serif;
+    width: 30%;
+    margin: auto;
+}
+
+p{
+    font-family: 'Dongle', sans-serif;
+    font-size: xx-large;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.intro{
+    font-family: 'Dongle', sans-serif;
+    font-size: xx-large;
+    margin-top: 10px;
+}
+
+.self{
+    width: 25%;
+    float: left;
+} 
+
+.myself{
+    height: 200px;
+    width: 200px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+#hacker{
+    float: right;
+}
+.hack-p{
+    
+}
+.web-p{
+    
+}
+
+a{
+    color: #11999E;
+}
